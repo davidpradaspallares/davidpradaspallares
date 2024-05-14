@@ -1,6 +1,8 @@
-    <div style="text-align: center;">
-        <h1>Hola, soy David 👋</h1>
-    </div>
+<div align=center>
+    <h1>Hola, soy David 👋</h1>
+</div>
+
+<img align=center  src="https://raw.githubusercontent.com/davidpradaspallares/davidpradaspallares/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png">
 
 <!--
 **davidpradaspallares/davidpradaspallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
