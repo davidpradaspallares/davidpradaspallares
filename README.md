@@ -4,6 +4,12 @@
 
 <img align=center  src="https://raw.githubusercontent.com/davidpradaspallares/davidpradaspallares/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png">
 
+<div align=start>
+    <h2>🧑‍💻 Sobre mí</h2>
+    <p>⌨️ Soy desarrollador Full Stack</p>
+    <p>📮 Correo electrónico: <a href="align=centerdavid28122000@gmail.com">david28122000@gmail.com</a></p>
+</div>
+
 <!--
 **davidpradaspallares/davidpradaspallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
