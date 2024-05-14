@@ -1,6 +1,6 @@
-<div align=center>
+<!--<div align=center>
     <h1>Hola, soy David 👋</h1>
-</div>
+</div>-->
 
 <img align=center  src="https://raw.githubusercontent.com/davidpradaspallares/davidpradaspallares/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png">
 
