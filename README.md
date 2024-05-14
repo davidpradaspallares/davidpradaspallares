@@ -7,7 +7,7 @@
 <div align=start>
     <h2>🧑‍💻 Sobre mí</h2>
     <p>⌨️ Soy desarrollador Full Stack</p>
-    <p>📮 Correo electrónico: <a href="align=centerdavid28122000@gmail.com">david28122000@gmail.com</a></p>
+    <p>📮 Correo electrónico: <a href="mailto:david28122000@gmail.com">david28122000@gmail.com</a></p>
 </div>
 
 <!--
