@@ -8,6 +8,7 @@
     <h2>🧑‍💻 Sobre mí</h2>
     <p>⌨️ Soy desarrollador Full Stack</p>
     <p>📮 Correo electrónico: <a href="mailto:david28122000@gmail.com">david28122000@gmail.com</a></p>
+    <p>📮 Linkedin: <a href="www.linkedin.com/in/davidpradaspallares"></a>https://www.linkedin.com/in/david-pradas-pallares</p>
 </div>
 
 <!--
